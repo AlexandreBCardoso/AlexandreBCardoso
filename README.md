@@ -1,4 +1,9 @@
-### Hi there 👋
+# Olá, Alexandre Cardoso por aqui! 🖖🏻
+
+### My GitHub Stats
+[![Alexandre GitHub stats](https://github-readme-stats.vercel.app/api?username=AlexandreBCardoso&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=false&show_icons=true)](https://github.com/AlexandreBCardoso)
+
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreBCardoso&layout=compact&title_color=ffffff&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=false&locale=en&custom_title=Most%20%used%20%languages)](https://github.com/AlexandreBCardoso)
 
 <!--
 **AlexandreBCardoso/AlexandreBCardoso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
